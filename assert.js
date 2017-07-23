@@ -4,6 +4,6 @@ var assert = {
       throw new Error("Assertion failed: " + msg);
     } else {
       console.log("Test passed")
-    }
+    };
   }
 };
