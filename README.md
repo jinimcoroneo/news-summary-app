@@ -25,3 +25,8 @@ As a busy politician
 I can see whizzy animations in the app
 To make my news reading more fun
 ```
+# To run  
+- clone this repo
+- run `npm install -g http-server` from the command line
+- run `hs` from the command line
+- navigate to `localhost:<port number>`
